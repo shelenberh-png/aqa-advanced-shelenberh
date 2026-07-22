@@ -1,0 +1,10 @@
+let a = "String";
+console.log(a);
+let b = 10;
+console.log(b);
+let c = true;
+console.log(c);
+let d = null;
+console.log(d);
+let e = undefined;
+console.log(e);
